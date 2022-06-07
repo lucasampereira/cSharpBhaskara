@@ -1,0 +1,5 @@
+C:\Users\Etec\Downloads\Calculadora.exe
+C:\Users\Etec\Downloads\Calculadora.dll
+C:\Users\Etec\Downloads\Calculadora.deps.json
+C:\Users\Etec\Downloads\Calculadora.runtimeconfig.json
+C:\Users\Etec\Downloads\Calculadora.pdb
