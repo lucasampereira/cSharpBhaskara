@@ -1,0 +1,15 @@
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\bin\Debug\net6.0\Ex4.exe
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\bin\Debug\net6.0\Ex4.deps.json
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\bin\Debug\net6.0\Ex4.runtimeconfig.json
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\bin\Debug\net6.0\Ex4.dll
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\bin\Debug\net6.0\Ex4.pdb
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.csproj.AssemblyReference.cache
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfoInputs.cache
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfo.cs
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.dll
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\refint\Ex4.dll
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.pdb
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\Ex4.genruntimeconfig.cache
+C:\Users\logonpflocal\source\repos\Ex4\Ex4\obj\Debug\net6.0\ref\Ex4.dll
