@@ -1,0 +1,17 @@
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\bin\Debug\net6.0-windows\Bhaskara2.exe
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\bin\Debug\net6.0-windows\Bhaskara2.deps.json
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\bin\Debug\net6.0-windows\Bhaskara2.runtimeconfig.json
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\bin\Debug\net6.0-windows\Bhaskara2.dll
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\bin\Debug\net6.0-windows\Bhaskara2.pdb
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.csproj.AssemblyReference.cache
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.Form1.resources
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.csproj.GenerateResource.cache
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.AssemblyInfoInputs.cache
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.AssemblyInfo.cs
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.csproj.CoreCompileInputs.cache
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.dll
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\refint\Bhaskara2.dll
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.pdb
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\Bhaskara2.genruntimeconfig.cache
+C:\Users\logonpflocal\source\repos\Bhaskara2\Bhaskara2\obj\Debug\net6.0-windows\ref\Bhaskara2.dll

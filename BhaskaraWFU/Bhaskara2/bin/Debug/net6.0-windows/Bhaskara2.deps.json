@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bhaskara2/1.0.0": {
+        "runtime": {
+          "Bhaskara2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bhaskara2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
